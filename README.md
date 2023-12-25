@@ -28,6 +28,6 @@ Dive into the beats with my first Spotify Clone! Experience the world of music t
 Excited to contribute? Fork the repository, make your enhancements, and submit a pull request. Let's make this Spotify Clone even more awesome together!
 
 ## 📬 Contact
-Have questions or suggestions? Reach out to me on [LinkedIn](https://www.linkedin.com/in/yesitsyash) or drop me an email at [your.email@example.com](mailto:yesitsyash43@gmail.com).
+Have questions or suggestions? Reach out to me on [LinkedIn](https://www.linkedin.com/in/yesitsyash) or drop me an email at (mailto:yesitsyash43@gmail.com).
 
 Let's amplify the music vibes! 🎧🔊
